@@ -51,3 +51,6 @@ A machine learning project that analyzes physicochemical properties of red wine 
 ---
 
 ## 📁 Project Structure
+Red-Wine-Quality-Analyzer/
+├── index.html           # Full interactive notebook exported as HTML
+├── README.md            # This file
