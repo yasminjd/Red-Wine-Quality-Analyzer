@@ -49,8 +49,3 @@ A machine learning project that analyzes physicochemical properties of red wine 
 - Addressing **class imbalance** remains a challenge for further improvements.
 
 ---
-
-## 📁 Project Structure
-Red-Wine-Quality-Analyzer/
-├── index.html           # Full interactive notebook exported as HTML
-├── README.md            # This file
